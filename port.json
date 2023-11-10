@@ -17,72 +17,12 @@
 
 //定义搜索源
 "sites":[
-    {
-        "key":"js_企鹅",
-        "name":"腾讯",
-        "type":3,
-        "api":"./js/api_lib/drpy2.min.js",
-        "searchable":1, 
-        "quickSearch":1, 
-        "filterable":1,
-        "ext": "./js/site/tengxun.js"
-    },
-
-    {
-        "key":"js_奇异",
-        "name":"爱奇艺",
-        "type":3,
-        "api":"./js/api_lib/drpy2.min.js",
-        "searchable":1, 
-        "quickSearch":1, 
-        "filterable":1,
-        "ext": "./js/site/aiqiyi.js"
-    },
-
-    {
-        "key":"js_优酷",
-        "name":"优酷",
-        "type":3,
-        "api":"./js/api_lib/drpy2.min.js",
-        "searchable":1, 
-        "quickSearch":1, 
-        "filterable":1,
-        "ext": "./js/site/youku.js"
-    },
-
-    {
-        "key":"js_芒果",
-        "name":"芒果",
-        "type":3,
-        "api":"./js/api_lib/drpy2.min.js",
-        "searchable":1, 
-        "quickSearch":1, 
-        "filterable":1,
-        "ext": "./js/site/mangguo.js"
-    },
-
-    {
-        "key":"js豆瓣",
-        "name":"豆瓣精选",
-        "type":3,
-        "api":"./js/api_lib/drpy2.min.js", 
-        "searchable":0, 
-        "quickSearch":0, 
-        "filterable":1, 
-        "ext":"./js/site/douban.js"
-    }, 
-
-    {
-        "key":"js_厂长资源",
-        "name":"厂长资源",
-        "type":3,
-        "api":"./js/api_lib/drpy2.min.js",
-        "searchable":1, 
-        "quickSearch":1, 
-        "filterable":1,
-        "ext": "./js/site/厂长资源.js"
-    },
-
+    {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://weixine.net/js/douban.js"},
+    {"key":"优酷","name":"优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
+    {"key":"腾讯","name":"腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
+    {"key":"芒果","name":"芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
+    {"key":"搜狗","name":"搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
+    {"key":"爱奇异","name":"爱奇艺(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/aiqiyi.js"},
     {"key":"zy_10801", "name":"1080影视", "type":1, "api":"https://api.1080zyku.com/inc/apijson.php", "playUrl":"https://vip.zykbf.com/?url=", "categories":["国产剧", "大陆综艺", "国产动漫", "日韩综艺", "日韩动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "纪录片", "剧情片", "动画片", "战争片"]}, 
     {"key":"zy_10802", "name":"酷喵资源", "type":1, "api":"https://api.1080zyku.com/inc/api_mac10.php", "searchable":0, "quickSearch":0, "filterable":0, "categories":["国产剧", "大陆综艺", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "其他剧"]}, 
     {"key":"废物影院", "name":"️废物影院", "type":1, "api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/", "playUrl":"", "searchable":1, "quickSearch":1, "filterable":1, "categories":["国产剧", "综艺", "日韩剧", "惊悚片", "犯罪片", "冒险片", "动作片", "科幻片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "战争片", "悬疑片", "剧情片", "记录片", "港台剧", "欧美剧", "动漫"]}, 
