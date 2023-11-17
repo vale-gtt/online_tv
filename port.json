@@ -17,6 +17,11 @@
 
 //定义搜索源
 "sites":[
+    {"key": "腾讯1", "name": "腾讯┃视频", "type": 3, "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js", "ext": "https://tvmvip.com/xc/js/%E8%85%BE%E8%AE%AF.js"},
+    {"key": "爱奇艺1", "name": "💜奇艺┃视频", "type": 3, "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js", "ext": "https://tvmvip.com/xc/js/%E5%A5%87%E5%BC%82.js"},
+    {"key": "优酷1", "name": "优酷|视频", "type": 3, "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js", "ext": "https://tvmvip.com/xc/js/%E4%BC%98%E9%85%B7.js"},
+
+
     {"key":"豆瓣","name":"豆瓣荐片","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://weixine.net/js/douban.js"},
     {"key":"优酷","name":"优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
     {"key":"腾讯","name":"腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
