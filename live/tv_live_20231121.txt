@@ -17,7 +17,6 @@ CCTV-14 少儿,https://cntv.lat/tv/cctv.php?auth=231110&id=cctvseHD
 CCTV-15 音乐,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv15HD
 CCTV-16 奥林匹克,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv16HD
 CCTV-17 农业农村,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv17HD
-CCTV-16 奥林匹克 4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
 
 
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -131,6 +130,7 @@ CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 西藏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 兵团卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
+
 
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
