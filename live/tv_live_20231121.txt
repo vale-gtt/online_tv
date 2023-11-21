@@ -58,17 +58,11 @@ CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212261
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
-CCTV-1 综合,http://cfss.cc/api/ysp/cctv1.m3u8,
-CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8,
-CCTV-1 综合,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
-CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8,
+CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV-2 财经,http://cfss.cc/api/ysp/cctv2.m3u8
-CCTV-4 中文国际,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
 CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV-6 电影,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8,
 CCTV-6 电影,http://cfss.cc/api/ysp/cctv6.m3u8
-CCTV-7 国防军事,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV-8 电视剧,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 
