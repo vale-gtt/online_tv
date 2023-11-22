@@ -112,7 +112,7 @@ CCTV-6 电影,http://223.95.111.98:5555/newlive/live/hls/6/live.m3u8
 CCTV-8 电视剧,http://223.95.111.98:5555/newlive/live/hls/8/live.m3u8
 CCTV-9 纪录,http://223.95.111.98:5555/newlive/live/hls/9/live.m3u8
 CCTV-12 社会与法,http://223.95.111.98:5555/newlive/live/hls/12/live.m3u8
-CCTV13,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
+CCTV-13 新闻,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 CCTV-13 新闻,http://223.95.111.98:5555/newlive/live/hls/14/live.m3u8
 
 
