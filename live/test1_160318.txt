@@ -1,4 +1,4 @@
-央视,#genre#
+央视1,#genre#
 CCTV1,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv1HD
 CCTV2,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv2HD
 CCTV3,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv3HD
