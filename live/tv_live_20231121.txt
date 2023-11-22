@@ -61,6 +61,24 @@ CCTV-16 奥林匹克,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/
 CCTV-17 农业农村,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
 CCTV-17 农业农村,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 
+CCTV-1 综合,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv1HD
+CCTV-2 财经,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv2HD
+CCTV-3 综艺,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv3HD
+CCTV-4 中文国际,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv4HD
+CCTV-5 体育,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv5HD
+CCTV-5+ 体育赛事,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv5SportHD
+CCTV-6 电影,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv6HD
+CCTV-7 国防军事,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv7HD
+CCTV-8 电视剧,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv8HD
+CCTV-9 纪录,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv9HD
+CCTV-10 科教,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv10HD
+CCTV-11 戏曲,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv11HD
+CCTV-12 社会与法,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv12HD
+CCTV-13 新闻,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=CCTVNewsHD
+CCTV-14 少儿,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctvseHD
+CCTV-15 音乐,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv15HD
+CCTV-16 奥林匹克,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv16HD
+CCTV-17 农业农村,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv17HD
 
 CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -86,6 +104,21 @@ CCTV-15 音乐,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-16 奥林匹克,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?   
 
+CCTV-1 综合,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
+CCTV-2 财经,http://223.95.111.98:5555/newlive/live/hls/2/live.m3u8
+CCTV-3 综艺,http://223.95.111.98:5555/newlive/live/hls/3/live.m3u8
+CCTV-5 体育,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
+CCTV-6 电影,http://223.95.111.98:5555/newlive/live/hls/6/live.m3u8
+CCTV-8 电视剧,http://223.95.111.98:5555/newlive/live/hls/8/live.m3u8
+CCTV-9 纪录,http://223.95.111.98:5555/newlive/live/hls/9/live.m3u8
+CCTV-12 社会与法,http://223.95.111.98:5555/newlive/live/hls/12/live.m3u8
+CCTV13,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
+CCTV-13 新闻,http://223.95.111.98:5555/newlive/live/hls/14/live.m3u8
+
+
+
+
+
 CCTV-1 综合,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv1HD
 CCTV-2 财经,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
 CCTV-3 综艺,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv3HD
@@ -105,6 +138,58 @@ CCTV-15 音乐,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv15HD
 CCTV-16 奥林匹克,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv16HD
 CCTV-17 农业农村,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv17HD
 
+CCTV-1 综合,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv1hd8m/8000000
+CCTV-2 财经,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv2hd8m/8000000
+CCTV-3 综艺,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv38m/8000000
+CCTV-4 中文国际,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv4hd8m/8000000
+CCTV-5 体育,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv58m/8000000
+CCTV-5+ 体育赛事,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv5phd8m/8000000
+CCTV-6 电影,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv6hd8m/8000000
+CCTV-7 国防军事,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv7hd8m/8000000
+CCTV-8 电视剧,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv8hd8m/8000000
+CCTV-9 纪录,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv9hd8m/8000000
+CCTV-10 科教,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv10hd8m/8000000
+CCTV-11 戏曲,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv11hd8m/8000000
+CCTV-12 社会与法,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv12hd8m/8000000
+CCTV-13 新闻,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv13xwhd8m/8000000
+CCTV-14 少儿,http://rihou.cc:61/qiepian/bestv切片.php?id=cctvsehd8m/8000000
+CCTV-15 音乐,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv15hd8m/8000000
+CCTV-16 奥林匹克,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv16hd8m/8000000
+CCTV-17 农业农村,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv17hd8m/8000000
+CCTV-16 奥林匹克 4K,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv16hd4k/15000000
+
+
+CCTV3,http://111.20.40.166/PLTV/88888893/224/3221226397/index.m3u8
+CCTV3,http://111.20.40.173/PLTV/88888893/224/3221226397/index.m3u8
+CCTV3,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
+CCTV3,http://111.20.40.167/PLTV/88888893/224/3221226397/index.m3u8
+CCTV3,http://111.20.40.166/PLTV/88888893/224/3221226397/index.m3u8
+CCTV4,http://111.20.40.173/PLTV/88888893/224/3221226191/index.m3u8
+CCTV4,http://111.20.40.172/PLTV/88888893/224/3221226191/index.m3u8
+CCTV4,http://111.20.40.164/PLTV/88888893/224/3221226191/index.m3u8
+CCTV4,http://111.20.40.164:80/PLTV/88888893/224/3221226191/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,683&prioritypopid=1
+CCTV5,http://111.20.40.173/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5,http://111.20.40.168/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5,http://111.20.40.167/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5,http://111.20.40.166/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5,http://111.20.40.165/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5,http://111.20.40.164/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5,http://111.20.40.163/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5,http://111.20.40.162/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5,http://111.20.40.160/PLTV/88888893/224/3221226395/index.m3u8
+CCTV6,http://111.20.40.173/PLTV/88888893/224/3221226393/index.m3u8
+CCTV6,http://111.20.40.172/PLTV/88888893/224/3221226393/index.m3u8
+CCTV6,http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8
+CCTV6,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
+CCTV8,http://111.20.40.173/PLTV/88888893/224/3221226391/index.m3u8
+CCTV8,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8
+CCTV8,http://111.20.40.167/PLTV/88888893/224/3221226391/index.m3u8
+CCTV8,http://111.20.40.166/PLTV/88888893/224/3221226391/index.m3u8
+CCTV16,http://111.20.40.169/PLTV/88888893/224/3221226921/index.m3u8
+CCTV16,http://111.20.40.168/PLTV/88888893/224/3221226921/index.m3u8
+CCTV16,http://111.20.40.165/PLTV/88888893/224/3221226921/index.m3u8
+CCTV16,http://111.20.40.164/PLTV/88888893/224/3221226921/index.m3u8
+CCTV16,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 
 
 CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -116,6 +201,10 @@ CCTV-4 中文国际,http://111.20.40.164:80/PLTV/88888893/224/3221226191/index.m
 CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-6 电影,http://cfss.cc/api/ysp/cctv6.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
+CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 
 卫视频道,#genre#
@@ -198,6 +287,42 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 湖北教育,https://live.metshop.top/hbgd.php?id=hbjy_1000
 湖北生活,https://live.metshop.top/hbgd.php?id=hbsh_1000
 
+湖南卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=hunanHD
+重庆卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=chongqingHD
+江苏卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=jiangsuHD
+北京卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=beijingHD
+浙江卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=zhejiangHD
+东方卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=shanghaiHD
+深圳卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=shenzhenHD
+辽宁卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=liaoningHD
+天津卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=tianjinHD
+贵州卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=guizhouHD
+四川卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=sichuanHD
+云南卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=yunnanSD
+东南卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=dongnanHD
+黑龙江卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=heilongjiangHD
+安徽卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=anhuiSD
+河北卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=hebeiSD
+江西卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=jiangxiHD
+湖北卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=hubeiSD
+海南卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=hainanSD
+吉林卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=jilinHD
+广西卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=guangxiHD
+广东卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=guangdongHD
+河南卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=henanHD
+金鹰卡通,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=jinyingSD
+青海卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=qinghaiSD
+山西卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=shanxiSD
+兵团卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=bingtuanSD
+宁夏卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=ningxia
+北京卡酷少儿,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=bjkakuSD
+三沙卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=sanshaSD
+​山东教育卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=sdjiaoyuSD
+新疆卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=xinjiangSD
+西藏卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=xizangSD
+内蒙古卫视,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=neimengkuSD
+
+
 
 湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
@@ -221,6 +346,35 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
 黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
 贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
+
+
+江苏卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=jswshd8m/8000000
+广西卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=gxwshd8m/8000000
+四川卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=scwshd/8000000
+湖南卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=hunanwshd8m/8000000
+浙江卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=zjwshd8m/8000000
+东方卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=dfwshd8m/8000000
+北京卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=bjwshd8m/8000000
+天津卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=tjwshd8m/8000000
+辽宁卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=lnwshd8m/8000000
+安徽卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=ahwshd8m/8000000
+黑龙江卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=hljwshd8m/8000000
+广东卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=gdwshd8m/8000000
+深圳卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=szwshd8m/8000000
+湖北卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=hubeiws8m/8000000
+吉林卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=jlwshd8m/8000000
+山东卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=sdws8m/8000000
+江西卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=jxws8m/8000000
+河南卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=hnwshd8m/8000000
+河北卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=hbwshd8m/8000000
+甘肃卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=gswshd8m/8000000
+重庆卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=cqws8m/8000000
+东南卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=dnwshd8m/8000000
+云南卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=ynwshd8m/8000000
+贵州卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=gzwshd8m/8000000
+海南卫视,http://rihou.cc:61/qiepian/bestv切片.php?id=hainanwshd8m/8000000
+
+
 
 安徽卫视,https://cntv.lat/tv/live.php?auth=231110&id=anhuiSD
 北京卫视,https://cntv.lat/tv/live.php?auth=231110&id=beijingHD
@@ -275,6 +429,55 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 
+
+
+其他频道,#genre#
+欢笑剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=hxjc8m/8000000
+劲爆体育,http://rihou.cc:61/qiepian/bestv切片.php?id=jbtyhd8m/8000000
+快乐垂钓,http://rihou.cc:61/qiepian/bestv切片.php?id=klcd8m/8000000
+金鹰纪实,http://rihou.cc:61/qiepian/bestv切片.php?id=jyjs8m/8000000
+戏曲精选,http://rihou.cc:61/qiepian/bestv切片.php?id=xqjx8m/8000000
+上海第一财经,http://rihou.cc:61/qiepian/bestv切片.php?id=dycjhd8m/8000000
+上视新闻,http://rihou.cc:61/qiepian/bestv切片.php?id=xwzhhd8m/8000000
+上海都市,http://rihou.cc:61/qiepian/bestv切片.php?id=dshd8m/8000000
+上海纪实,http://rihou.cc:61/qiepian/bestv切片.php?id=jspdhd/4000000
+东方影视,http://rihou.cc:61/qiepian/bestv切片.php?id=dfyshd8m/8000000
+五星体育,http://rihou.cc:61/qiepian/bestv切片.php?id=wxtyhd8m/8000000
+上视外语,http://rihou.cc:61/qiepian/bestv切片.php?id=icshd8m/8000000
+七彩戏剧,http://rihou.cc:61/qiepian/bestv切片.php?id=qcxjhd8m/8000000
+上海教育,http://rihou.cc:61/qiepian/bestv切片.php?id=setvhd/8000000
+全纪实,http://rihou.cc:61/qiepian/bestv切片.php?id=qjshd8m/8000000
+生活时尚,http://rihou.cc:61/qiepian/bestv切片.php?id=shss8m/8000000
+新视觉,http://rihou.cc:61/qiepian/bestv切片.php?id=xsjhd8m/8000000
+游戏风云,http://rihou.cc:61/qiepian/bestv切片.php?id=yxfy8m/8000000
+热门综艺,http://rihou.cc:61/qiepian/bestv切片.php?id=rmzy8m/8000000
+超级体育,http://rihou.cc:61/qiepian/bestv切片.php?id=qcsj8m/8000000
+健康养生,http://rihou.cc:61/qiepian/bestv切片.php?id=jkys8m/8000000
+百变课堂,http://rihou.cc:61/qiepian/bestv切片.php?id=bbkt8m/8000000
+看天下精选,http://rihou.cc:61/qiepian/bestv切片.php?id=ktxjx8m/8000000
+欢笑剧场4k,http://rihou.cc:61/qiepian/bestv切片.php?id=hxjc4k/15000000
+华语影院,http://rihou.cc:61/qiepian/bestv切片.php?id=hyyy8m/8000000
+电竞天堂,http://rihou.cc:61/qiepian/bestv切片.php?id=djtt8m/8000000
+青春动漫,http://rihou.cc:61/qiepian/bestv切片.php?id=qcdm8m/8000000
+宝宝动画,http://rihou.cc:61/qiepian/bestv切片.php?id=bbdh8m/8000000
+星光影院,http://rihou.cc:61/qiepian/bestv切片.php?id=xgyy8m/8000000
+谍战剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=dzjc8m/8000000
+全球大片,http://rihou.cc:61/qiepian/bestv切片.php?id=qqdp8m/8000000
+热门剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=rmjc8m/8000000
+陶瓷,http://rihou.cc:61/qiepian/bestv切片.php?id=taocihd/8000000
+中国教育-1,http://rihou.cc:61/qiepian/bestv切片.php?id=zgjy1t8m/8000000
+中国教育-4,http://rihou.cc:61/qiepian/bestv切片.php?id=zgjy4hd8m/8000000
+卡酷少儿,http://rihou.cc:61/qiepian/bestv切片.php?id=kkse8m/8000000
+纪实科教,http://rihou.cc:61/qiepian/bestv切片.php?id=dajs8m/8000000
+茶频道,http://rihou.cc:61/qiepian/bestv切片.php?id=cpdhdavs8m/8000000
+足球,http://rihou.cc:61/qiepian/bestv切片.php?id=zqpd8m/8000000
+炫动卡通,http://rihou.cc:61/qiepian/bestv切片.php?id=hhxd8m/8000000
+东方财经,http://rihou.cc:61/qiepian/bestv切片.php?id=dfcjhd8m/8000000
+都市剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=dsjc8m/8000000
+动漫秀场,http://rihou.cc:61/qiepian/bestv切片.php?id=dmxc8m/8000000
+法治天地,http://rihou.cc:61/qiepian/bestv切片.php?id=fztd8m/8000000
+金色学堂,http://rihou.cc:61/qiepian/bestv切片.php?id=jingsepd8m/8000000
+魅力足球,http://rihou.cc:61/qiepian/bestv切片.php?id=mlyyhd8m/8000000
 
 
 
