@@ -9,7 +9,7 @@
 "lives":[{"group":"redirect", 
      "channels":[{
         "name":"redirect", 
-        "urls":["proxy://do=live&type=txt&ext=./live/test1_160318.txt"]
+        "urls":["proxy://do=live&type=txt&ext=./live/tv_live_20231121.txt"]
         }]
     }
 ], 
