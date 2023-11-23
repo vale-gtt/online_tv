@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV1.png" group-title="央视",CCTV-1 综合
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8?
+https://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8?
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV2.png" group-title="央视",CCTV-2 财经
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8?
+https://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8?
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+https://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV4.png" group-title="央视",CCTV-4 中文国际
 https://live.metshop.top/hbgd.php?id=cctv4_1000
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV5.png" group-title="央视",CCTV-5 体育
