@@ -61,6 +61,7 @@ CCTV-16 奥林匹克,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/
 CCTV-17 农业农村,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
 CCTV-17 农业农村,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 
+
 CCTV-1 综合,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv1HD
 CCTV-2 财经,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv2HD
 CCTV-3 综艺,http://us-sjc-bgp-2.openfrp.top:10180/test/cq.php?id=cctv3HD
@@ -175,7 +176,6 @@ CCTV-1 综合,http://60.255.120.30:89/live2/live2.m3u8
 CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV-2 财经,http://cfss.cc/api/ysp/cctv2.m3u8
 CCTV-3 综艺,http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw2527029411_41260484/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.248.38&timestamp=20220902072210&ContentId=265667206&timezone=UTC&mtv_session=36ab5975fbd743a08231254a1f9434a2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12cc47515a3c5f7a099951f84a9769e1
-CCTV-4 中文国际,http://111.20.40.164:80/PLTV/88888893/224/3221226191/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,683&prioritypopid=1
 CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-6 电影,http://cfss.cc/api/ysp/cctv6.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
