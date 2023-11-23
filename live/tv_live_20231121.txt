@@ -135,7 +135,6 @@ CCTV-14 少儿,http://rihou.cc:61/qiepian/bestv切片.php?id=cctvsehd8m/8000000
 CCTV-15 音乐,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv15hd8m/8000000
 CCTV-16 奥林匹克,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv16hd8m/8000000
 CCTV-17 农业农村,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv17hd8m/8000000
-CCTV-16 奥林匹克 4K,http://rihou.cc:61/qiepian/bestv切片.php?id=cctv16hd4k/15000000
 
 
 CCTV-3 综艺,http://111.20.40.166/PLTV/88888893/224/3221226397/index.m3u8
@@ -377,54 +376,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 
 
 
-其他频道,#genre#
-欢笑剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=hxjc8m/8000000
-劲爆体育,http://rihou.cc:61/qiepian/bestv切片.php?id=jbtyhd8m/8000000
-快乐垂钓,http://rihou.cc:61/qiepian/bestv切片.php?id=klcd8m/8000000
-金鹰纪实,http://rihou.cc:61/qiepian/bestv切片.php?id=jyjs8m/8000000
-戏曲精选,http://rihou.cc:61/qiepian/bestv切片.php?id=xqjx8m/8000000
-上海第一财经,http://rihou.cc:61/qiepian/bestv切片.php?id=dycjhd8m/8000000
-上视新闻,http://rihou.cc:61/qiepian/bestv切片.php?id=xwzhhd8m/8000000
-上海都市,http://rihou.cc:61/qiepian/bestv切片.php?id=dshd8m/8000000
-上海纪实,http://rihou.cc:61/qiepian/bestv切片.php?id=jspdhd/4000000
-东方影视,http://rihou.cc:61/qiepian/bestv切片.php?id=dfyshd8m/8000000
-五星体育,http://rihou.cc:61/qiepian/bestv切片.php?id=wxtyhd8m/8000000
-上视外语,http://rihou.cc:61/qiepian/bestv切片.php?id=icshd8m/8000000
-七彩戏剧,http://rihou.cc:61/qiepian/bestv切片.php?id=qcxjhd8m/8000000
-上海教育,http://rihou.cc:61/qiepian/bestv切片.php?id=setvhd/8000000
-全纪实,http://rihou.cc:61/qiepian/bestv切片.php?id=qjshd8m/8000000
-生活时尚,http://rihou.cc:61/qiepian/bestv切片.php?id=shss8m/8000000
-新视觉,http://rihou.cc:61/qiepian/bestv切片.php?id=xsjhd8m/8000000
-游戏风云,http://rihou.cc:61/qiepian/bestv切片.php?id=yxfy8m/8000000
-热门综艺,http://rihou.cc:61/qiepian/bestv切片.php?id=rmzy8m/8000000
-超级体育,http://rihou.cc:61/qiepian/bestv切片.php?id=qcsj8m/8000000
-健康养生,http://rihou.cc:61/qiepian/bestv切片.php?id=jkys8m/8000000
-百变课堂,http://rihou.cc:61/qiepian/bestv切片.php?id=bbkt8m/8000000
-看天下精选,http://rihou.cc:61/qiepian/bestv切片.php?id=ktxjx8m/8000000
-欢笑剧场4k,http://rihou.cc:61/qiepian/bestv切片.php?id=hxjc4k/15000000
-华语影院,http://rihou.cc:61/qiepian/bestv切片.php?id=hyyy8m/8000000
-电竞天堂,http://rihou.cc:61/qiepian/bestv切片.php?id=djtt8m/8000000
-青春动漫,http://rihou.cc:61/qiepian/bestv切片.php?id=qcdm8m/8000000
-宝宝动画,http://rihou.cc:61/qiepian/bestv切片.php?id=bbdh8m/8000000
-星光影院,http://rihou.cc:61/qiepian/bestv切片.php?id=xgyy8m/8000000
-谍战剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=dzjc8m/8000000
-全球大片,http://rihou.cc:61/qiepian/bestv切片.php?id=qqdp8m/8000000
-热门剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=rmjc8m/8000000
-陶瓷,http://rihou.cc:61/qiepian/bestv切片.php?id=taocihd/8000000
-中国教育-1,http://rihou.cc:61/qiepian/bestv切片.php?id=zgjy1t8m/8000000
-中国教育-4,http://rihou.cc:61/qiepian/bestv切片.php?id=zgjy4hd8m/8000000
-卡酷少儿,http://rihou.cc:61/qiepian/bestv切片.php?id=kkse8m/8000000
-纪实科教,http://rihou.cc:61/qiepian/bestv切片.php?id=dajs8m/8000000
-茶频道,http://rihou.cc:61/qiepian/bestv切片.php?id=cpdhdavs8m/8000000
-足球,http://rihou.cc:61/qiepian/bestv切片.php?id=zqpd8m/8000000
-炫动卡通,http://rihou.cc:61/qiepian/bestv切片.php?id=hhxd8m/8000000
-东方财经,http://rihou.cc:61/qiepian/bestv切片.php?id=dfcjhd8m/8000000
-都市剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=dsjc8m/8000000
-动漫秀场,http://rihou.cc:61/qiepian/bestv切片.php?id=dmxc8m/8000000
-法治天地,http://rihou.cc:61/qiepian/bestv切片.php?id=fztd8m/8000000
-金色学堂,http://rihou.cc:61/qiepian/bestv切片.php?id=jingsepd8m/8000000
-魅力足球,http://rihou.cc:61/qiepian/bestv切片.php?id=mlyyhd8m/8000000
-
+地方频道,#genre#
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -444,22 +396,9 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 上海都市,https://pi.0472.org/tv/sh.php?id=ds
 
 
-CETV-1,https://cntv.lat/tv/zb.php?auth=231122&id=cetv1
-CETV-4,https://cntv.lat/tv/zb.php?auth=231122&id=cetv4
-山东教育卫视,https://cntv.lat/tv/zb.php?auth=231122&id=sdjy
-北京纪实科教,https://cntv.lat/tv/zb.php?auth=231122&id=bjjskj
-卡酷少儿,https://cntv.lat/tv/zb.php?auth=231122&id=bjkkse
-纪实人文,https://cntv.lat/tv/zb.php?auth=231122&id=shjsrw
-金鹰卡通,https://cntv.lat/tv/zb.php?auth=231122&id=jykt
-金鹰纪实,https://cntv.lat/tv/zb.php?auth=231122&id=jyjs
-家庭理财,https://cntv.lat/tv/zb.php?auth=231122&id=jtlc
-中国天气,https://cntv.lat/tv/zb.php?auth=231122&id=zgqx
-嘉佳卡通,https://cntv.lat/tv/zb.php?auth=231122&id=jjkt
 
 
-
-
-海外频道,#genre#
+港澳台频道,#genre#
 凤凰中文,https://pi.0472.org/tv/fhzw.php?auth=231122
 翡翠台,https://pi.0472.org/tv/fct.php?auth=231122
 明珠台,https://pi.0472.org/tv/mzt.php?auth=231122
@@ -470,6 +409,11 @@ CETV-4,https://cntv.lat/tv/zb.php?auth=231122&id=cetv4
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 莲花卫视,https://cntv.lat/tv/lhws.php
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+
+
+
+海外频道,#genre#
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -523,9 +467,57 @@ Astrakhan24,https://streaming.astrakhan.ru/astrakhan24/index.m3u8
 日本QVC,https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 VB,https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+
+其他频道,#genre#
+欢笑剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=hxjc8m/8000000
+劲爆体育,http://rihou.cc:61/qiepian/bestv切片.php?id=jbtyhd8m/8000000
+快乐垂钓,http://rihou.cc:61/qiepian/bestv切片.php?id=klcd8m/8000000
+金鹰纪实,http://rihou.cc:61/qiepian/bestv切片.php?id=jyjs8m/8000000
+戏曲精选,http://rihou.cc:61/qiepian/bestv切片.php?id=xqjx8m/8000000
+上海第一财经,http://rihou.cc:61/qiepian/bestv切片.php?id=dycjhd8m/8000000
+上视新闻,http://rihou.cc:61/qiepian/bestv切片.php?id=xwzhhd8m/8000000
+上海都市,http://rihou.cc:61/qiepian/bestv切片.php?id=dshd8m/8000000
+上海纪实,http://rihou.cc:61/qiepian/bestv切片.php?id=jspdhd/4000000
+东方影视,http://rihou.cc:61/qiepian/bestv切片.php?id=dfyshd8m/8000000
+五星体育,http://rihou.cc:61/qiepian/bestv切片.php?id=wxtyhd8m/8000000
+上视外语,http://rihou.cc:61/qiepian/bestv切片.php?id=icshd8m/8000000
+七彩戏剧,http://rihou.cc:61/qiepian/bestv切片.php?id=qcxjhd8m/8000000
+上海教育,http://rihou.cc:61/qiepian/bestv切片.php?id=setvhd/8000000
+全纪实,http://rihou.cc:61/qiepian/bestv切片.php?id=qjshd8m/8000000
+生活时尚,http://rihou.cc:61/qiepian/bestv切片.php?id=shss8m/8000000
+新视觉,http://rihou.cc:61/qiepian/bestv切片.php?id=xsjhd8m/8000000
+游戏风云,http://rihou.cc:61/qiepian/bestv切片.php?id=yxfy8m/8000000
+热门综艺,http://rihou.cc:61/qiepian/bestv切片.php?id=rmzy8m/8000000
+超级体育,http://rihou.cc:61/qiepian/bestv切片.php?id=qcsj8m/8000000
+健康养生,http://rihou.cc:61/qiepian/bestv切片.php?id=jkys8m/8000000
+百变课堂,http://rihou.cc:61/qiepian/bestv切片.php?id=bbkt8m/8000000
+看天下精选,http://rihou.cc:61/qiepian/bestv切片.php?id=ktxjx8m/8000000
+欢笑剧场4k,http://rihou.cc:61/qiepian/bestv切片.php?id=hxjc4k/15000000
+华语影院,http://rihou.cc:61/qiepian/bestv切片.php?id=hyyy8m/8000000
+电竞天堂,http://rihou.cc:61/qiepian/bestv切片.php?id=djtt8m/8000000
+青春动漫,http://rihou.cc:61/qiepian/bestv切片.php?id=qcdm8m/8000000
+宝宝动画,http://rihou.cc:61/qiepian/bestv切片.php?id=bbdh8m/8000000
+星光影院,http://rihou.cc:61/qiepian/bestv切片.php?id=xgyy8m/8000000
+谍战剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=dzjc8m/8000000
+全球大片,http://rihou.cc:61/qiepian/bestv切片.php?id=qqdp8m/8000000
+热门剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=rmjc8m/8000000
+陶瓷,http://rihou.cc:61/qiepian/bestv切片.php?id=taocihd/8000000
+中国教育-1,http://rihou.cc:61/qiepian/bestv切片.php?id=zgjy1t8m/8000000
+中国教育-4,http://rihou.cc:61/qiepian/bestv切片.php?id=zgjy4hd8m/8000000
+卡酷少儿,http://rihou.cc:61/qiepian/bestv切片.php?id=kkse8m/8000000
+纪实科教,http://rihou.cc:61/qiepian/bestv切片.php?id=dajs8m/8000000
+茶频道,http://rihou.cc:61/qiepian/bestv切片.php?id=cpdhdavs8m/8000000
+足球,http://rihou.cc:61/qiepian/bestv切片.php?id=zqpd8m/8000000
+炫动卡通,http://rihou.cc:61/qiepian/bestv切片.php?id=hhxd8m/8000000
+东方财经,http://rihou.cc:61/qiepian/bestv切片.php?id=dfcjhd8m/8000000
+都市剧场,http://rihou.cc:61/qiepian/bestv切片.php?id=dsjc8m/8000000
+动漫秀场,http://rihou.cc:61/qiepian/bestv切片.php?id=dmxc8m/8000000
+法治天地,http://rihou.cc:61/qiepian/bestv切片.php?id=fztd8m/8000000
+金色学堂,http://rihou.cc:61/qiepian/bestv切片.php?id=jingsepd8m/8000000
+魅力足球,http://rihou.cc:61/qiepian/bestv切片.php?id=mlyyhd8m/8000000
 
 
 IPV6,#genre#
