@@ -38,24 +38,6 @@ CCTV-15 音乐,https://live.metshop.top/hbgd.php?id=cctv14_1000
 CCTV-16 奥林匹克,https://live.metshop.top/hbgd.php?id=cctv16hd_3000
 CCTV-17 农业农村,https://live.metshop.top/hbgd.php?id=cctv14hd_3000
 
-CCTV-1 综合,https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
-CCTV-2 财经,https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
-CCTV-3 综艺,https://cntv.lat/tv/zb.php?auth=231122&id=cctv3
-CCTV-4 中文国际,https://cntv.lat/tv/zb.php?auth=231122&id=cctv4
-CCTV-5 体育,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5
-CCTV-5+ 体育赛事,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5p
-CCTV-6 电影,https://cntv.lat/tv/zb.php?auth=231122&id=cctv6
-CCTV-7 国防军事,https://cntv.lat/tv/zb.php?auth=231122&id=cctv7
-CCTV-8 电视剧,https://cntv.lat/tv/zb.php?auth=231122&id=cctv8
-CCTV-9 纪录,https://cntv.lat/tv/zb.php?auth=231122&id=cctv9
-CCTV-10 科教,https://cntv.lat/tv/zb.php?auth=231122&id=cctv10
-CCTV-11 戏曲,https://cntv.lat/tv/zb.php?auth=231122&id=cctv11
-CCTV-12 社会与法,https://cntv.lat/tv/zb.php?auth=231122&id=cctv12
-CCTV-13 新闻,https://cntv.lat/tv/zb.php?auth=231122&id=CCTV13
-CCTV-14 少儿,https://cntv.lat/tv/zb.php?auth=231122&id=cctv14
-CCTV-15 音乐,https://cntv.lat/tv/zb.php?auth=231122&id=cctv15
-CCTV-16 奥林匹克,https://cntv.lat/tv/zb.php?auth=231122&id=cctv16
-CCTV-17 农业农村,https://cntv.lat/tv/zb.php?auth=231122&id=cctv17
 
 CCTV-1 综合,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8?
 CCTV-2 财经,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8?
@@ -241,39 +223,6 @@ CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
-北京卫视,https://cntv.lat/tv/zb.php?auth=231122&id=bjws
-东方卫视,https://cntv.lat/tv/zb.php?auth=231122&id=dfws
-浙江卫视,https://cntv.lat/tv/zb.php?auth=231122&id=zjws
-江苏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jsws
-湖南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hnws
-深圳卫视,https://cntv.lat/tv/zb.php?auth=231122&id=szws
-天津卫视,https://cntv.lat/tv/zb.php?auth=231122&id=tjws
-广东卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gdws
-黑龙江卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hljws
-安徽卫视,https://cntv.lat/tv/zb.php?auth=231122&id=ahws
-辽宁卫视,https://cntv.lat/tv/zb.php?auth=231122&id=lnws
-四川卫视,https://cntv.lat/tv/zb.php?auth=231122&id=scws
-重庆卫视,https://cntv.lat/tv/zb.php?auth=231122&id=cqws
-贵州卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gzws
-江西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jxws
-东南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=dnws
-湖北卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hbws
-河南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=henws
-山东卫视,https://cntv.lat/tv/zb.php?auth=231122&id=sdws
-海南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hainws
-广西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gxws
-吉林卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jlws
-陕西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=shxws
-内蒙古卫视,https://cntv.lat/tv/zb.php?auth=231122&id=nmws
-西藏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=xzws
-河北卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hebws
-青海卫视,https://cntv.lat/tv/zb.php?auth=231122&id=qhws
-宁夏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=nxws
-云南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=ynws
-山西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=sxws
-甘肃卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gsws
-新疆卫视,https://cntv.lat/tv/zb.php?auth=231122&id=xjws
-兵团卫视,https://cntv.lat/tv/zb.php?auth=231122&id=btws
 
 
 北京卫视,https://live.metshop.top/hbgd.php?id=bjwshd_3000
