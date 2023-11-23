@@ -106,16 +106,6 @@ https://live.metshop.top/hbgd.php?id=btws_1000
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/凤凰中文.png" group-title="港澳",凤凰中文
 https://0472.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/翡翠台.png" group-title="港澳",翡翠台
-https://pi.0472.org/tv/fct.php?auth=231110
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/明珠台.png" group-title="港澳",明珠台
-https://pi.0472.org/tv/mzt.php?auth=231110
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/澳视澳门.png" group-title="港澳",澳视澳门
-https://pi.0472.org/tv/asam.php?auth=231110
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/星空卫视.png" group-title="港澳",星空卫视
-https://pi.0472.org/tv/startv.php?auth=231110
-#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/澳亚卫视.png" group-title="港澳",澳亚卫视
-https://pi.0472.org/tv/aoya.php?auth=231110
 #EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/耀才财经.png" group-title="港澳",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/香港卫视.png" group-title="港澳",香港卫视
