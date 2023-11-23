@@ -28,14 +28,13 @@ https://live.metshop.top/hbgd.php?id=cctv12hd_3000
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV13.png" group-title="央视",CCTV-13 新闻
 https://live.metshop.top/hbgd.php?id=cctv13_1000
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV14.png" group-title="央视",CCTV-14 少儿
-https://live.metshop.top/hbgd.php?id=cctv14hd_3000
+https://live.metshop.top/hbgd.php?id=cctv17hd_3000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV15.png" group-title="央视",CCTV-15 音乐
-https://live.metshop.top/hbgd.php?id=cctv15_1000
+https://live.metshop.top/hbgd.php?id=cctv15hd_3000
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 https://live.metshop.top/hbgd.php?id=cctv16hd_3000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/CCTV17.png" group-title="央视",CCTV-17 农业农村
-https://live.metshop.top/hbgd.php?id=cctv17hd_3000
-
+https://live.metshop.top/hbgd.php?id=cctv14hd_3000
 
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://agit.ai/vale_gtt/online_tv/raw/branch/master/live/m3u/tv_icon/北京卫视.png" group-title="卫视",北京卫视
 https://live.metshop.top/hbgd.php?id=bjwshd_3000
