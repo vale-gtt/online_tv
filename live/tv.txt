@@ -378,6 +378,35 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 
 
 
+安徽频道,#genre#
+安徽经济,http://skycw.vicp.net:4022/udp/238.1.79.44:4464
+安徽经济,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
+安徽影视,http://skycw.vicp.net:4022/udp/238.1.79.42:4448
+安徽公共,http://skycw.vicp.net:4022/udp/238.1.79.43:4456
+安徽综艺,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+安徽农业,http://skycw.vicp.net:4022/udp/238.1.79.40:4432
+祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd
+池州公共,http://cm.wshls.homecdn.com/live/829d.m3u8
+池州公共,http://cm.wshls.homecdn.com/live/829d.m3u8?zanhd
+池州公共,http://cm.wshls.homecdn.com/live/829d.flv?zanhd
+淮南新闻,http://stream.0554news.com/hnds1/sd/live.m3u8
+淮南新闻,http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
+淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8
+淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+怀远一套,rtmp://m.yunxi.tv/yunxi-host/test_e7cba94f9450436fba1f747534dc9121?auth_key=1781502420-0-0-619476a370c978c22ffaaeb0288c332e
+怀远二套,rtmp://m.yunxi.tv/yunxi-host/test_e8eed0b9088a44788eb393dd6d10e1fe?auth_key=1781502600-0-0-7b29b500b5449ae446cf9f5210c2114d
+屯溪融媒,http://112.30.194.221:20080/live/63cfaf06e7064943b9a1b7d76d3470dd/hls.m3u8
+屯溪融媒,http://112.30.194.221:20080/live/63cfaf06e7064943b9a1b7d76d3470dd/hls.m3u8?zanhd#rtmp://112.30.194.221:11935/live/63cfaf06e7064943b9a1b7d76d3470dd?zanhd
+金寨综合,http://112.26.80.214:1935/live/xinwen/playlist.m3u8
+金寨综合,http://112.26.80.214:1935/live/xinwen/playlist.m3u8?zanhd
+安徽影院,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+歙县综合,https://stream.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
+歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
+肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
+
 地方频道,#genre#
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
