@@ -122,6 +122,8 @@ CCTV-15 音乐,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-16 奥林匹克,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?   
 
+
+
 CCTV-1 综合,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
 CCTV-2 财经,http://223.95.111.98:5555/newlive/live/hls/2/live.m3u8
 CCTV-3 综艺,http://223.95.111.98:5555/newlive/live/hls/3/live.m3u8
