@@ -60,7 +60,6 @@
     {"key":"闪电资源", "name":"闪电资源", "type":1, "api":"http://sdzyapi.com/api.php/provide/vod/", "searchable":1, "quickSearch":1, "categories":["国产剧", "大陆综艺", "国产动漫",  "日韩综艺", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "港台剧", "欧美剧", "日韩剧", "其他剧"]}, 
     {"key":"CK资源", "name":"CK资源", "type":1, "api":"https://ckzy.me/api.php/provide/vod/?ac=list", "searchable":1, "quickSearch":1, "categories":["国产剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "悬疑片", "犯罪片", "奇幻片", "港台剧", "欧美剧", "日韩剧", "伦理片"]},
     
-    {"key":"360ys","name":"360(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/360.js"},
     {"key":"优酷","name":"优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
     {"key":"腾讯","name":"腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
     {"key":"芒果","name":"芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
