@@ -14,14 +14,17 @@
     }
 ], 
 
+//定义直播源地址
+
+
 //定义搜索源
 "sites":[
-    {"key":"豆瓣","name":"豆瓣荐片","type":3,"api":"./js/api_lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/site/douban.js"},
-    {"key":"腾讯","name":"优酷(官)","type":3,"api":"./js/api_lib/drpy2.min.js","ext":"./js/site/youku.js"},
-    {"key":"腾讯","name":"腾讯(官)","type":3,"api":"./js/api_lib/drpy2.min.js","ext":"./js/site/tengxun.js"},
-    {"key":"搜狗","name":"搜狗(官)","type":3,"api":"./js/api_lib/drpy2.min.js","ext":"./js/site/caigou.js"},
-    {"key":"爱奇异","name":"爱奇艺(官)","type":3,"api":"./js/api_lib/drpy2.min.js","ext":"./js/site/aiqiyi.js"},
-    {"key":"360ys","name":"360(官)","type":3,"api":"./js/api_lib/drpy2.min.js","ext":"./js/site/360.js"},
+    {"key":"豆瓣","name":"豆瓣荐片","type":3,"api":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/api_lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/site/douban.js"},
+    {"key":"腾讯","name":"优酷(官)","type":3,"api":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/api_lib/drpy2.min.js","ext":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/site/youku.js"},
+    {"key":"腾讯","name":"腾讯(官)","type":3,"api":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/api_lib/drpy2.min.js","ext":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/site/tengxun.js"},
+    {"key":"搜狗","name":"搜狗(官)","type":3,"api":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/api_lib/drpy2.min.js","ext":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/site/caigou.js"},
+    {"key":"爱奇异","name":"爱奇艺(官)","type":3,"api":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/api_lib/drpy2.min.js","ext":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/site/aiqiyi.js"},
+    {"key":"360ys","name":"360(官)","type":3,"api":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/api_lib/drpy2.min.js","ext":"https://agit.ai/vale_gtt/online_tv/raw/branch/master/js/site/360.js"},
 
     {"key":"zy_10801", "name":"1080影视", "type":1, "api":"https://api.1080zyku.com/inc/apijson.php", "playUrl":"https://vip.zykbf.com/?url=", "categories":["国产剧", "大陆综艺", "国产动漫", "日韩综艺", "日韩动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "纪录片", "剧情片", "动画片", "战争片"]}, 
     {"key":"zy_10802", "name":"酷喵资源", "type":1, "api":"https://api.1080zyku.com/inc/api_mac10.php", "searchable":0, "quickSearch":0, "filterable":0, "categories":["国产剧", "大陆综艺", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "其他剧"]}, 
