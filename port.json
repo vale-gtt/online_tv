@@ -2,8 +2,8 @@
 
 {
 //定义jar地址
-"spider":"./jar/Yoursmile.jar", 
-
+//"spider":"./jar/Yoursmile.jar", 
+"spider":"./jar/yyff.jar", 
 
 //定义直播源地址
 "lives":[{"group":"redirect", 
