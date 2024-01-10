@@ -162,7 +162,8 @@
 "wallpaper":"http://52bsj.vip:82/late", 
 
 //屏蔽广告用，保持不动
-"ads":["mimg.0c1q0l.cn", 
+"ads":[
+    "mimg.0c1q0l.cn", 
     "www.googletagmanager.com", 
     "www.google-analytics.com", 
     "mc.usihnbcq.cn", 
