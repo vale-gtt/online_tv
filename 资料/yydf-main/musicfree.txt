@@ -1,0 +1,5 @@
+https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
+
+最新版，始终保持最新
+手机版示例：安装插件
+在软件左上角三横处点击进入设置，选择插件设置，从网络安装插件，导入上面地址，确认即可安装插件。
